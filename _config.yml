@@ -16,7 +16,7 @@ author: Cmd-Noah
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - File Integrity Monitor: "https://cmd-noah.github.io/FIM/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://CMD-noah.github.io"
 
@@ -257,6 +257,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# Beautiful Jekyll / Noah
+# xxxxxxxxxxxxxxxx
 
