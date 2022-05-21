@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Projects
+My name is CMD-Noah. I have made the following projects:
 
-What else do you need?
+- File Intergrity Monitor (FMI) (Very basic version)
+- more coming soon...
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born in a small town in the UK, went to a public primary school, once finished with primary I moved to a secondary school which I then got a job at domino's which I learnt the basis of how work is, and how to work as a team in a fast paced environment, during that time I would have to be on a till at the front transacting fast-paced microtranscations, at this age I also dabbled into building computers there is **[images here](https://imgur.com/a/ysQv1PA)**. Now I am a hard working, motivated student at my secondary school's Sixth Form where I do the follwing A-levels: Computer Science (A-level), Business Studies (A-Level), Media Studies (A-Level)
